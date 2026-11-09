@@ -1,0 +1,8 @@
+torch>=1.9
+torchvision
+tifffile
+numpy
+matplotlib
+scikit-learn
+Pillow
+tqdm
